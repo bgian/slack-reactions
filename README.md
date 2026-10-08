@@ -18,3 +18,17 @@ Appears in the Slack of Beside, Figma, Vercel, Polymarket, Dust, and friends.
 - Designed by [Bobby Giangeruso](https://x.com/_bgian)
 - `:Aligned:` symbol by [Ben Pasternak](https://x.com/pasternak)
 - System by [Jean-Charles Samuelian-Werve](https://x.com/jcsamuelian) and [Charles Gorintin](https://x.com/Gorintic)
+
+## License
+
+The emoji images in this repository (the `.png` and `.gif` files) are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The full license text is in [LICENSE-CC-BY-4.0.txt](LICENSE-CC-BY-4.0.txt).
+
+Copyright (c) 2024 Bobby Giangeruso.
+
+You may copy, share, and adapt the emoji images, including for commercial use. When sharing them, retain the creator credits above and the copyright notice, link to this repository and the license, and indicate any changes. Credit may be provided in a reasonable manner for the medium and context, such as an accompanying credits page.
+
+Suggested attribution for the unmodified collection:
+
+> [Slack Reactions](https://github.com/bgian/slack-reactions), designed by Bobby Giangeruso. Aligned symbol by Ben Pasternak. System by Jean-Charles Samuelian-Werve and Charles Gorintin. Copyright (c) 2024 Bobby Giangeruso. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+The README documentation remains available under the [MIT License](LICENSE).
