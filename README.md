@@ -4,7 +4,7 @@
 A system of Slack emojis, used for sharing progress updates and reacting to posts.
 
 ## Usage
-Appears in the Slack of Heart Hands, Figma, Vercel, Campsite, Dust, and friends.
+Appears in the Slack of Beside, Figma, Vercel, Polymarket, Dust, and friends.
 - `:todo:` upcoming focus or reading post later
 - `:in-progress:` active focus
 - `:done:` completed focus or read post
